@@ -1,0 +1,10 @@
+runs/
+__pycache__/
+*.pyc
+.venv/
+
+*.db
+controller_state*.db
+crash_state.db
+__pycache__/
+*.pyc
